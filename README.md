@@ -1,61 +1,61 @@
-🧩 Survival Prediction
+# 🧩 Survival Prediction
 
- 	This project is a machine learning implementation for predicting survival outcomes based on dataset features. It leverages supervised learning techniques and is structured in a Jupyter Notebook for step-by-			step exploration and visualization.
+ This project is a machine learning implementation for predicting survival outcomes based on dataset features. It leverages supervised learning techniques and is structured in a Jupyter Notebook for step-by-	step exploration and visualization.
 
-📚 Contents
+## 📚 Contents
 
-	📓 Survival Prediction.ipynb — Main notebook containing data loading, preprocessing, modeling, evaluation, and prediction steps.
+* 📓 Survival Prediction.ipynb — Main notebook containing data loading, preprocessing, modeling, evaluation, and prediction steps.
  
-	📊 Dataset — Assumes a survival prediction dataset (e.g., Titanic dataset or similar). Ensure the dataset is available in the correct path or repository.
+* 📊 Dataset — Assumes a survival prediction dataset (e.g., Titanic dataset or similar). Ensure the dataset is available in the correct path or repository.
 
-✨ Features
+## ✨ Features
 	
-	🧹 Data Cleaning and Preprocessing
+* 🧹 Data Cleaning and Preprocessing
  
-	📈 Exploratory Data Analysis (EDA)
+* 📈 Exploratory Data Analysis (EDA)
 	
- 	🤖 Model Training using Machine Learning Algorithms
+* 🤖 Model Training using Machine Learning Algorithms
 	
- 	🎯 Model Evaluation with Accuracy Metrics
+* 🎯 Model Evaluation with Accuracy Metrics
 	
- 	📊 Visualization of Results
+* 📊 Visualization of Results
 	
- 	🔮 Predictive Analysis
+* 🔮 Predictive Analysis
 
-🛠️ Requirements
+## 🛠️ Requirements
 
-	🐍 Python 3.x
+* 🐍 Python 3.x
 	
- 	📒 Jupyter Notebook
+* 📒 Jupyter Notebook
 	
- 	🐼 pandas
+* 🐼 pandas
 	
- 	🔢 numpy
+* 🔢 numpy
 	
- 	📉 matplotlib
+* 📉 matplotlib
 	
- 	🌊 seaborn
+* 🌊 seaborn
 	
- 	🧮 scikit-learn
+* 🧮 scikit-learn
 
 Install the dependencies with:
 	
  	pip install pandas numpy matplotlib seaborn scikit-learn
  
-🚀 Usage
+## 🚀 Usage
 
-	🔗 Clone the repository.
+* 🔗 Clone the repository.
  
-	🗂️ Ensure your dataset is available in the appropriate directory.
+* 🗂️ Ensure your dataset is available in the appropriate directory.
 
-	📓 Open the Survival Prediction.ipynb notebook in Jupyter.
+* 📓 Open the Survival Prediction.ipynb notebook in Jupyter.
  
-	▶️ Run the notebook cells sequentially to perform data analysis, model training, and predictions.
+* ▶️ Run the notebook cells sequentially to perform data analysis, model training, and predictions.
 
-🚧 Future Improvements
-	🌲 Integration of advanced models like XGBoost or RandomForest.
+## 🚧 Future Improvements
+* 🌲 Integration of advanced models like XGBoost or RandomForest.
  
- 	🧩 Hyperparameter tuning for optimized performance.
+* 🧩 Hyperparameter tuning for optimized performance.
 	
 	🌐 Deployment of the model via a web API.
 
